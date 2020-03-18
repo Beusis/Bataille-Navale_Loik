@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="bataille_navale" targetName="bataille_navale" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -20,7 +18,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -36,13 +33,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
-    <configuration name="bataille_navale" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bataille_navale" TARGET_NAME="bataille_navale" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bataille_navale" RUN_TARGET_NAME="bataille_navale">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,6 +45,12 @@
       <updated>1583488984195</updated>
       <workItem from="1583488986174" duration="534000" />
       <workItem from="1583499695302" duration="3605000" />
+      <workItem from="1584558000801" duration="162000" />
+      <workItem from="1584558204509" duration="21000" />
+      <workItem from="1584559085783" duration="2653000" />
+      <workItem from="1584564195445" duration="39000" />
+      <workItem from="1584570045578" duration="17000" />
+      <workItem from="1584570138128" duration="47000" />
     </task>
     <servers />
   </component>
@@ -98,9 +94,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583499730615" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583499695317">
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584570138629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583499695317" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584570138629" />
   </component>
 </project>
